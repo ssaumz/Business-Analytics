@@ -6,7 +6,7 @@ This project aims to understand and visualise the dataset structure, analyze and
 ## Project Description
 The project involves the following tasks:
 
-**Level 1: Beginner**
+**[Level 1: Beginner]**
 
 **Task 1: Data Overview**
 Objective: Understand the dataset structure.
@@ -21,7 +21,7 @@ Steps:
 2. Visualization: Create a simple visualization, such as a bar chart or pie chart, to represent the distribution of genders in the dataset.
 
 
-**Level 2: Intermediate**
+**[Level 2: Intermediate]**
 
 **Task 3: Descriptive Statistics**
 Objective: Present basic statistics for numerical columns.
@@ -30,7 +30,7 @@ Steps:
 2. Calculations: Use statistical functions (e.g., mean(), median(), std()) to calculate the mean, median, and standard deviation for each numerical column.
 
 
-**Level 3: Advanced**
+**[Level 3: Advanced]**
 
 **Task 5: Reasons for Investment**
 Objective: Analyze and summarize reasons for investment choices.
@@ -39,7 +39,7 @@ Steps:
 2. Summarize Reasons: Identify common themes or recurring reasons and provide a summary.
 
 
-**Level 4: Expert**
+**[Level 4: Expert]**
 
 **Task 7: Common Information Sources**
 Objective: Analyze common sources participants rely on for investment information.
