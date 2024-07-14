@@ -20,6 +20,7 @@ Steps:
 1. Extract Gender Information: Identify and extract the gender column from the dataset.
 2. Visualization: Create a simple visualization, such as a bar chart or pie chart, to represent the distribution of genders in the dataset.
 
+
 **Level 2: Intermediate**
 
 **Task 3: Descriptive Statistics**
@@ -28,6 +29,7 @@ Steps:
 1. Identify Numerical Columns: Review the dataset to identify columns containing numerical data (e.g., age, income).
 2. Calculations: Use statistical functions (e.g., mean(), median(), std()) to calculate the mean, median, and standard deviation for each numerical column.
 
+
 **Level 3: Advanced**
 
 **Task 5: Reasons for Investment**
@@ -35,6 +37,7 @@ Objective: Analyze and summarize reasons for investment choices.
 Steps:
 1. Explore Reasons Column: Investigate the column where participants provided reasons for their investment choices.
 2. Summarize Reasons: Identify common themes or recurring reasons and provide a summary.
+
 
 **Level 4: Expert**
 
