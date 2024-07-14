@@ -11,6 +11,7 @@ The project involves the following tasks:
 **Task 1: Data Overview**
 
 Objective: Understand the dataset structure.
+
 Steps:
 1. data analysis tool such as Python with pandas or spreadsheet software.
 2. Descriptive Statistics: Use descriptive functions (e.g., info() in pandas) to gather information about the number of entries, columns, and data types.
@@ -18,6 +19,7 @@ Steps:
 **Task 2: Gender Distribution**
 
 Objective: Visualize gender distribution in the dataset.
+
 Steps:
 1. Extract Gender Information: Identify and extract the gender column from the dataset.
 2. Visualization: Create a simple visualization, such as a bar chart or pie chart, to represent the distribution of genders in the dataset.
@@ -28,6 +30,7 @@ Steps:
 **Task 3: Descriptive Statistics**
 
 Objective: Present basic statistics for numerical columns.
+
 Steps:
 1. Identify Numerical Columns: Review the dataset to identify columns containing numerical data (e.g., age, income).
 2. Calculations: Use statistical functions (e.g., mean(), median(), std()) to calculate the mean, median, and standard deviation for each numerical column.
@@ -38,6 +41,7 @@ Steps:
 **Task 5: Reasons for Investment**
 
 Objective: Analyze and summarize reasons for investment choices.
+
 Steps:
 1. Explore Reasons Column: Investigate the column where participants provided reasons for their investment choices.
 2. Summarize Reasons: Identify common themes or recurring reasons and provide a summary.
@@ -48,6 +52,7 @@ Steps:
 **Task 7: Common Information Sources**
 
 Objective: Analyze common sources participants rely on for investment information.
+
 Steps:
 1. Explore Information Sources Column: Review the column where participants indicated their sources of investment information.
 2. Identify Common Sources: Analyze the data to identify and summarize the most common sources participants rely on.
